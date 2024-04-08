@@ -1,0 +1,2 @@
+# Recognizing-images-in-photographs-with-Artificial-Intelligence
+This project has been developed to recognize objects in photographs using deep learning techniques. Deep learning is known for its ability to learn from large amounts of data by utilizing complex structures of artificial neural networks. Libraries such as TensorFlow and Keras are commonly used for developing and training deep learning models.
